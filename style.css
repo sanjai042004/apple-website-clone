@@ -354,6 +354,15 @@ body {
   margin-bottom: 30px;
 }
 
+.footer-disclaimer a{
+  color: #0071e3;
+  text-decoration: none;
+}
+
+.footer-disclaimer a:hover {
+  color: #057aef;
+  text-decoration: underline;
+}
 .footer-grid {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
@@ -391,6 +400,15 @@ body {
   padding: 20px;
 }
 
+.contact-info a {
+  color: #0071e3;
+  text-decoration: none;
+}
+
+.contact-info a:hover {
+  color: #057aef;
+  text-decoration: underline;
+}
 .footer-bottom {
   padding-top: 15px;
   display: flex;
